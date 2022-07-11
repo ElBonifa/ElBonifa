@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElBonifa
+- 👋 Hi, I’m Julian Bonifazi
 - 👀 I’m interested in programming and control applied to the process industry
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
